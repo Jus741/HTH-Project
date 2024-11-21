@@ -7,6 +7,6 @@ The ten questions I want to answer when analyzing this dataset are the following
 5. How does the release frequency of units vary between JP and Global versions over time?
 6. What percentage of the characters have an EZA?
 7. What is the average cost of units by rarity and type?
-8. What categories are the most populated
+8. What categories are the most populated?
 9. What is the average time gap between JP and Global releases for units?
 10. Do certain characters have more high-rarity units compared to others?
